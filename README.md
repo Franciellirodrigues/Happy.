@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <br>
@@ -23,6 +22,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+
+#### 🎲 Running the project
+
+```bash
+# Clone this repository
+$ git clone git@github.com:Franciellirodrigues/_Happy.git
+
+# Access the project folder in your terminal
+$ cd _Happy
+
+# Install the dependencies
+$ npm install
+
+# Run the application in development mode
+$ npm run tailwind
+
 
 
 
