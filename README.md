@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP](https://www.php.net/)
 - [Tailwind](https://tailwindcss.com/)
-
+- [Wordpress](https://wordpress.com/)
 
 ## 💻 Projeto
 
@@ -36,7 +36,7 @@ $ cd _Happy
 $ npm install
 
 # Run the application in development mode
-$ npm run tailwind
+$ npx tailwindcss -i ./style/style.css -o ./main.css --watch
 
 
 
